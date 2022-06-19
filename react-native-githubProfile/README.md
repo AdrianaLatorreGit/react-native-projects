@@ -1,6 +1,6 @@
 # react-native-githubProfile
 
-Recriando págino do github em React-Native
+Recriando página do github em React-Native
 
 ![Capturar](https://user-images.githubusercontent.com/101880897/173243843-fe4544e3-dbfc-4445-b5ca-9a26eeaa2825.PNG)
 
